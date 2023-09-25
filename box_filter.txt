@@ -1,0 +1,6 @@
+# Formatacao
+# Linha 01: Stride Xpivot Ypivot
+# Linhas 02: M N
+# onde M e N sao as dimensoes da mascara
+10 5 5
+10 10
